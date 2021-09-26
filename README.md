@@ -1,0 +1,3 @@
+Sends a dad joke whenever you want
+
+I use windows task scheduler to run dadjoke.bat every day at noon, which will in turn run Dadjoke_oneshot. I recommend making a gmail account (it is important to turn access for less secure apps ON). Give the script your username and password, and also give it the emails associate with MMS servicing for your phone (you can google this, it will be your phone number + some domain specific to your carrier).
